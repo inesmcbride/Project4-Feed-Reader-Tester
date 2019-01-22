@@ -1,13 +1,16 @@
-/* feedreader.js
- *
- * This is the spec file that Jasmine will read and contains
- * all of the tests that will be run against your application.
+/*Comments below are instruction from Udacity for this project.
+ * I referenced Matthew Cranford Walkthrough blog 
+ * (https://matthewcranford.com/feed-reader-walkthrough-part-1-starter-code/)
+ * and Ryan Waite's Video Tutorial 
+ * (https://www.youtube.com/watch?v=eUdkhVkpCf8&list=PLKC17wty6rS1XVZbRlWjYU0WVsIoJyO3s&index=4)
+ * alongside this project
  */
 
 /* We're placing all of our tests within the $() function,
  * since some of these tests may require DOM elements. We want
  * to ensure they don't run until the DOM is ready.
  */
+ 
 $(function() {
     /* This is our first test suite - a test suite just contains
     * a related set of tests. This suite is all about the RSS
