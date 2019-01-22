@@ -5,7 +5,7 @@ In this project Udacity provided a web-based application that reads RSS feeds, w
 
 ## Running the Project
 
-Download the repository and open in your browser to view all the completed tests. All test are written in feedreader.js. Open this file to view the test code, and try and tweak the code within index.html and app.js to break and re-correct the tests.
+Download the repository and open index.html in your browser to view all the status of the tests. All test are written in feedreader.js. Open this file to view the test code, and try and tweak the code within index.html and app.js to break and re-correct the tests.
 
 ## References
 
